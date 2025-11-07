@@ -1,11 +1,6 @@
-# TODO for Java Operators Demonstration Program
+# TODO List for Java Experiments
 
-- [ ] Add main method to exp1.java
-- [ ] Declare variables for demonstration
-- [ ] Demonstrate arithmetic operators (+, -, *, /, %)
-- [ ] Demonstrate relational operators (==, !=, >, <, >=, <=)
-- [ ] Demonstrate logical operators (&&, ||, !)
-- [ ] Demonstrate assignment operators (=, +=, -=, *=, /=, %=)
-- [ ] Demonstrate operator precedence with examples
-- [ ] Demonstrate operator associativity with examples
-- [ ] Compile and run the program to verify output
+- [ ] Edit Exp2.java: Implement code to find the largest of three numbers using if-else statements.
+- [ ] Edit Exp3.java: Implement code to print patterns (triangle, pyramid, rectangle) using nested loops, and fix class name to Exp3.
+- [ ] Edit Exp4.java: Implement code to print multiplication tables using for loop, and fix class name to Exp4.
+- [ ] Edit Exp5.java: Implement code to find the sum of digits of a number using while loop.
